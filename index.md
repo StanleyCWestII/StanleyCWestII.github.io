@@ -19,9 +19,6 @@ My D-cache, implemented as 8 sets, 2 ways, 4 words, write-through, no write-allo
 
 I wrote and optimized a matmul kernel taking advantage of several CUDA techniques such as thread coarsening, float4, double buffering, and loop unrolling to achieve 81% of cuBLAS performance. I used Hwu, Kirk, and Hajj's Programming Massively Parallel Processors and Boehm's How to Optimize a CUDA Matmul Kernel for reference. 
 
-[schristopherwest@gmail.com](mailto:schristopherwest@gmail.com)
----
-[GitHub](https://github.com/StanleyCWestII)
----
-[LinkedIn](https://www.linkedin.com/in/stanley-west-5759903b6)
----
+- [schristopherwest@gmail.com](mailto:schristopherwest@gmail.com)
+- [GitHub](https://github.com/StanleyCWestII)
+- [LinkedIn](https://www.linkedin.com/in/stanley-west-5759903b6)
